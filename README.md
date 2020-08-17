@@ -1,4 +1,4 @@
-# Movie Talkie : A movie recommender system made using Python and publicly available datasets.
+# Movie Talkie : A movie recommender system made using Python and publicly available dataset.
 
 # Data Source : 
  Data is sourced for this project from a publicly available dataset from kaggle : available [here](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset).
